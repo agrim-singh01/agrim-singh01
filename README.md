@@ -1,4 +1,8 @@
 ## Hi there 👋
+<p align="center">
+  <img src="profile.jpg" width="200">
+</p>
+
 
 <h1 align="center">Hi 👋, I'm Agrim Singh</h1>
 <h3 align="center">Aspiring Developer | C++ & Web Learner 🇮🇳</h3>
