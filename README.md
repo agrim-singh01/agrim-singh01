@@ -1,34 +1,46 @@
 ## Hi there 👋
+
 <h1 align="center">Hi 👋, I'm Agrim Singh</h1>
-<h3 align="center">Aspiring Web Developer from India 🇮🇳</h3>
+<h3 align="center">Aspiring Developer | C++ & Web Learner 🇮🇳</h3>
 
 ---
 
 ### 👨‍💻 About Me
-- 🌱 Currently learning Web Development
-- 💻 Working with HTML, CSS & C++
+- 💻 I know **Basic Web Development (HTML & CSS)**
+- ⚙️ Learning **C++ and Data Structures & Algorithms**
+- 📚 Improving my **Problem Solving Skills**
+- 🗣️ Working on my **Communication & Soft English Skills**
 - 🎯 Goal: Become a Full Stack Developer
-- 🚀 Building projects to improve my skills
 
 ---
 
-### 🛠️ Tech Stack
-- HTML
-- CSS
-- C++
-- Learning JavaScript
+### 🛠️ Skills
+- 🌐 HTML  
+- 🎨 CSS  
+- ⚙️ C++  
+- 📊 Basic DSA  
+- 💬 Soft English Communication  
 
 ---
 
-### 📈 2026 Goals
-- Master Frontend Development
-- Learn Backend Development
-- Build real-world projects
+### 📈 Currently Focused On
+- Strengthening DSA concepts  
+- Building small web projects  
+- Improving coding consistency  
 
 ---
 
-### 📫 Connect With Me
+### 🔥 GitHub Stats
+![Agrim's GitHub stats](https://github-readme-stats.vercel.app/api?username=agrim-singh01&show_icons=true&theme=tokyonight)
+
+---
+
+### 🚀 Let's Connect
 - GitHub: https://github.com/agrim-singh01
+
+---
+
+⭐ *Always learning, always growing.*
 
 
 <!--
