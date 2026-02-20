@@ -1,6 +1,6 @@
 ## Hi there 👋
 <p align="center">
-  <img src="https://drive.google.com/file/d/1hHXuV4rzXPhdzJLziv2nHatPn8s4xgyk/view?usp=sharing" width="200">
+  <img src="profile pic.jpg" width="200">
 </p>
 
 <h1 align="center">Hi 👋, I'm Agrim Singh</h1>
