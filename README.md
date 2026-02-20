@@ -1,6 +1,6 @@
 ## Hi there 👋
 <p align="center">
-  <img src="profile pic(1).jpg" width="200">
+  <img src="profile%20pic%20(1).jpg" width="200">
 </p>
 
 <h1 align="center">Hi 👋, I'm Agrim Singh</h1>
@@ -47,25 +47,3 @@ I enjoy solving problems, improving my logic, and continuously growing my skills
 ---
 
 ⭐ *Always learning. Always improving.*
-
-
-
-
-  
-
-
-
-<!--
-**agrim-singh01/agrim-singh01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
