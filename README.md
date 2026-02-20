@@ -1,50 +1,58 @@
 ## Hi there 👋
 <p align="center">
-  <img src="profile.jpg" width="200">
+  <img src="https://drive.google.com/uc?export=view&id=1hHXuV4rzXPhdzJLziv2nHatPn8s4xgyk" width="200">
 </p>
 
-
 <h1 align="center">Hi 👋, I'm Agrim Singh</h1>
-<h3 align="center">Aspiring Developer | C++ & Web Learner 🇮🇳</h3>
+<h3 align="center">Aspiring Software Developer from India 🇮🇳</h3>
 
 ---
 
 ### 👨‍💻 About Me
-- 💻 I know **Basic Web Development (HTML & CSS)**
-- ⚙️ Learning **C++ and Data Structures & Algorithms**
-- 📚 Improving my **Problem Solving Skills**
-- 🗣️ Working on my **Communication & Soft English Skills**
-- 🎯 Goal: Become a Full Stack Developer
+
+I am a passionate and dedicated beginner developer building a strong foundation in programming and web development.  
+I enjoy solving problems, improving my logic, and continuously growing my skills.
+
+- 💻 Basic Web Development (HTML & CSS)  
+- ⚙️ Learning C++  
+- 📊 Practicing Data Structures & Algorithms (Basic)  
+- 🧠 Improving Problem-Solving Skills  
+- 🗣️ Working on Soft English & Communication  
+- 🎯 Goal: Become a Full Stack Developer  
 
 ---
 
-### 🛠️ Skills
-- 🌐 HTML  
-- 🎨 CSS  
-- ⚙️ C++  
-- 📊 Basic DSA  
-- 💬 Soft English Communication  
+### 🛠️ Technical Skills
+
+- HTML  
+- CSS  
+- C++  
+- Basic DSA  
 
 ---
 
-### 📈 Currently Focused On
-- Strengthening DSA concepts  
+### 📈 Current Focus
+
+- Strengthening C++ fundamentals  
 - Building small web projects  
 - Improving coding consistency  
+- Learning step by step  
 
 ---
 
 ### 🔥 GitHub Stats
+
 ![Agrim's GitHub stats](https://github-readme-stats.vercel.app/api?username=agrim-singh01&show_icons=true&theme=tokyonight)
 
 ---
 
-### 🚀 Let's Connect
-- GitHub: https://github.com/agrim-singh01
+⭐ *Always learning. Always improving.*
 
----
 
-⭐ *Always learning, always growing.*
+
+
+  
+
 
 
 <!--
