@@ -1,6 +1,6 @@
 ## Hi there 👋
 <p align="center">
-  <img src="profile pic.jpg" width="200">
+  <img src="profile pic(1).jpg" width="200">
 </p>
 
 <h1 align="center">Hi 👋, I'm Agrim Singh</h1>
